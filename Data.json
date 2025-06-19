@@ -1,172 +1,174 @@
-[
+{
+  "videos": [
     {
-        "id": "1",
-        "video_name": "Serene Nature Walk",
-        "video_url": "/Screenrecorder-2025-06-15-20-36-28-420.mp4",
-        "image_name": "nature_walk_thumb.jpg",
-        "video_info": {
-            "description": "A calming walk through lush green forests.",
-            "duration": "0:02:15",
-            "resolution": "1080p",
-            "size_mb": 25,
-            "upload_date": "2023-01-10"
-        },
-        "download_url": "/Screenrecorder-2025-06-15-20-36-28-420.mp4",
-        "year": 2023,
-        "language": "English",
-        "dubbed": false
+      "id": "1",
+      "video_name": "Serene Nature Walk",
+      "video_url": "/videos/nature_walk.mp4",
+      "thumbnail": "nature_walk_thumb.jpg",
+      "info": {
+        "description": "A calming walk through lush green forests.",
+        "duration": "0:02:15",
+        "resolution": "1080p",
+        "size": "25MB",
+        "upload_date": "2023-01-10"
+      },
+      "download_url": "/downloads/nature_walk.mp4",
+      "year": 2023,
+      "language": "English",
+      "dubbed": false
     },
     {
-        "id": "2",
-        "video_name": "Urban City Lights",
-        "video_url": "videos/city_lights.mp4",
-        "image_name": "city_lights_thumb.jpg",
-        "video_info": {
-            "description": "Mesmerizing time-lapse of a bustling city at night.",
-            "duration": "0:03:00",
-            "resolution": "4K",
-            "size_mb": 60,
-            "upload_date": "2023-02-20"
-        },
-        "download_url": "downloads/city_lights.mp4",
-        "year": 2023,
-        "language": "English",
-        "dubbed": false
+      "id": "2",
+      "video_name": "Urban City Lights",
+      "video_url": "/videos/city_lights.mp4",
+      "thumbnail": "city_lights_thumb.jpg",
+      "info": {
+        "description": "Mesmerizing time-lapse of a bustling city at night.",
+        "duration": "0:03:00",
+        "resolution": "4K",
+        "size": "60MB",
+        "upload_date": "2023-02-20"
+      },
+      "download_url": "/downloads/city_lights.mp4",
+      "year": 2023,
+      "language": "English",
+      "dubbed": false
     },
     {
-        "id": "3",
-        "video_name": "Tamil Cooking Show - Episode 1",
-        "video_url": "videos/tamil_cooking.mp4",
-        "image_name": "tamil_cooking_thumb.jpg",
-        "video_info": {
-            "description": "Learn to make traditional Tamil dishes.",
-            "duration": "0:08:45",
-            "resolution": "720p",
-            "size_mb": 45,
-            "upload_date": "2022-05-15"
-        },
-        "download_url": "downloads/tamil_cooking.mp4",
-        "year": 2022,
-        "language": "Tamil",
-        "dubbed": false
+      "id": "3",
+      "video_name": "Tamil Cooking Show - Episode 1",
+      "video_url": "/videos/tamil_cooking.mp4",
+      "thumbnail": "tamil_cooking_thumb.jpg",
+      "info": {
+        "description": "Learn to make traditional Tamil dishes.",
+        "duration": "0:08:45",
+        "resolution": "720p",
+        "size": "45MB",
+        "upload_date": "2022-05-15"
+      },
+      "download_url": "/downloads/tamil_cooking.mp4",
+      "year": 2022,
+      "language": "Tamil",
+      "dubbed": false
     },
     {
-        "id": "4",
-        "video_name": "Fantasy Adventure Film - Dubbed",
-        "video_url": "videos/fantasy_dubbed.mp4",
-        "image_name": "fantasy_dubbed_thumb.jpg",
-        "video_info": {
-            "description": "An epic journey through magical lands, dubbed in Tamil.",
-            "duration": "1:35:00",
-            "resolution": "1080p",
-            "size_mb": 800,
-            "upload_date": "2024-03-01"
-        },
-        "download_url": "downloads/fantasy_dubbed.mp4",
-        "year": 2024,
-        "language": "Tamil",
-        "dubbed": true
+      "id": "4",
+      "video_name": "Fantasy Adventure Film - Dubbed",
+      "video_url": "/videos/fantasy_dubbed.mp4",
+      "thumbnail": "fantasy_dubbed_thumb.jpg",
+      "info": {
+        "description": "An epic journey through magical lands, dubbed in Tamil.",
+        "duration": "1:35:00",
+        "resolution": "1080p",
+        "size": "800MB",
+        "upload_date": "2024-03-01"
+      },
+      "download_url": "/downloads/fantasy_dubbed.mp4",
+      "year": 2024,
+      "language": "Tamil",
+      "dubbed": true
     },
     {
-        "id": "5",
-        "video_name": "Yoga for Beginners",
-        "video_url": "videos/yoga_beginners.mp4",
-        "image_name": "yoga_beginners_thumb.jpg",
-        "video_info": {
-            "description": "Gentle yoga poses for those starting their practice.",
-            "duration": "0:15:30",
-            "resolution": "720p",
-            "size_mb": 70,
-            "upload_date": "2023-07-01"
-        },
-        "download_url": "downloads/yoga_beginners.mp4",
-        "year": 2023,
-        "language": "English",
-        "dubbed": false
+      "id": "5",
+      "video_name": "Yoga for Beginners",
+      "video_url": "/videos/yoga_beginners.mp4",
+      "thumbnail": "yoga_beginners_thumb.jpg",
+      "info": {
+        "description": "Gentle yoga poses for those starting their practice.",
+        "duration": "0:15:30",
+        "resolution": "720p",
+        "size": "70MB",
+        "upload_date": "2023-07-01"
+      },
+      "download_url": "/downloads/yoga_beginners.mp4",
+      "year": 2023,
+      "language": "English",
+      "dubbed": false
     },
     {
-        "id": "6",
-        "video_name": "Historical Documentary",
-        "video_url": "videos/historical_doc.mp4",
-        "image_name": "historical_doc_thumb.jpg",
-        "video_info": {
-            "description": "Explore ancient civilizations and their mysteries.",
-            "duration": "0:45:00",
-            "resolution": "1080p",
-            "size_mb": 250,
-            "upload_date": "2022-11-05"
-        },
-        "download_url": "downloads/historical_doc.mp4",
-        "year": 2022,
-        "language": "English",
-        "dubbed": false
+      "id": "6",
+      "video_name": "Historical Documentary",
+      "video_url": "/videos/historical_doc.mp4",
+      "thumbnail": "historical_doc_thumb.jpg",
+      "info": {
+        "description": "Explore ancient civilizations and their mysteries.",
+        "duration": "0:45:00",
+        "resolution": "1080p",
+        "size": "250MB",
+        "upload_date": "2022-11-05"
+      },
+      "download_url": "/downloads/historical_doc.mp4",
+      "year": 2022,
+      "language": "English",
+      "dubbed": false
     },
     {
-        "id": "7",
-        "video_name": "Kids Cartoon Fun",
-        "video_url": "videos/kids_cartoon.mp4",
-        "image_name": "kids_cartoon_thumb.jpg",
-        "video_info": {
-            "description": "An animated short for young children.",
-            "duration": "0:04:00",
-            "resolution": "720p",
-            "size_mb": 20,
-            "upload_date": "2024-01-20"
-        },
-        "download_url": "downloads/kids_cartoon.mp4",
-        "year": 2024,
-        "language": "English",
-        "dubbed": false
+      "id": "7",
+      "video_name": "Kids Cartoon Fun",
+      "video_url": "/videos/kids_cartoon.mp4",
+      "thumbnail": "kids_cartoon_thumb.jpg",
+      "info": {
+        "description": "An animated short for young children.",
+        "duration": "0:04:00",
+        "resolution": "720p",
+        "size": "20MB",
+        "upload_date": "2024-01-20"
+      },
+      "download_url": "/downloads/kids_cartoon.mp4",
+      "year": 2024,
+      "language": "English",
+      "dubbed": false
     },
     {
-        "id": "8",
-        "video_name": "Tech Review - Smartphone X",
-        "video_url": "videos/tech_review.mp4",
-        "image_name": "tech_review_thumb.jpg",
-        "video_info": {
-            "description": "In-depth review of the latest smartphone model.",
-            "duration": "0:10:00",
-            "resolution": "1080p",
-            "size_mb": 90,
-            "upload_date": "2024-04-10"
-        },
-        "download_url": "downloads/tech_review.mp4",
-        "year": 2024,
-        "language": "English",
-        "dubbed": false
+      "id": "8",
+      "video_name": "Tech Review - Smartphone X",
+      "video_url": "/videos/tech_review.mp4",
+      "thumbnail": "tech_review_thumb.jpg",
+      "info": {
+        "description": "In-depth review of the latest smartphone model.",
+        "duration": "0:10:00",
+        "resolution": "1080p",
+        "size": "90MB",
+        "upload_date": "2024-04-10"
+      },
+      "download_url": "/downloads/tech_review.mp4",
+      "year": 2024,
+      "language": "English",
+      "dubbed": false
     },
     {
-        "id": "9",
-        "video_name": "Tamil Devotional Song",
-        "video_url": "videos/tamil_devotional.mp4",
-        "image_name": "tamil_devotional_thumb.jpg",
-        "video_info": {
-            "description": "A soulful rendition of a traditional Tamil devotional song.",
-            "duration": "0:06:30",
-            "resolution": "720p",
-            "size_mb": 30,
-            "upload_date": "2021-08-01"
-        },
-        "download_url": "downloads/tamil_devotional.mp4",
-        "year": 2021,
-        "language": "Tamil",
-        "dubbed": false
+      "id": "9",
+      "video_name": "Tamil Devotional Song",
+      "video_url": "/videos/tamil_devotional.mp4",
+      "thumbnail": "tamil_devotional_thumb.jpg",
+      "info": {
+        "description": "A soulful rendition of a traditional Tamil devotional song.",
+        "duration": "0:06:30",
+        "resolution": "720p",
+        "size": "30MB",
+        "upload_date": "2021-08-01"
+      },
+      "download_url": "/downloads/tamil_devotional.mp4",
+      "year": 2021,
+      "language": "Tamil",
+      "dubbed": false
     },
     {
-        "id": "10",
-        "video_name": "Action Movie Trailer - Dubbed",
-        "video_url": "videos/action_trailer.mp4",
-        "image_name": "action_trailer_thumb.jpg",
-        "video_info": {
-            "description": "Explosive action-packed trailer, dubbed in Tamil.",
-            "duration": "0:02:00",
-            "resolution": "1080p",
-            "size_mb": 20,
-            "upload_date": "2024-05-20"
-        },
-        "download_url": "downloads/action_trailer.mp4",
-        "year": 2024,
-        "language": "Tamil",
-        "dubbed": true
+      "id": "10",
+      "video_name": "Action Movie Trailer - Dubbed",
+      "video_url": "/videos/action_trailer.mp4",
+      "thumbnail": "action_trailer_thumb.jpg",
+      "info": {
+        "description": "Explosive action-packed trailer, dubbed in Tamil.",
+        "duration": "0:02:00",
+        "resolution": "1080p",
+        "size": "20MB",
+        "upload_date": "2024-05-20"
+      },
+      "download_url": "/downloads/action_trailer.mp4",
+      "year": 2024,
+      "language": "Tamil",
+      "dubbed": true
     }
-]
+  ]
+}
