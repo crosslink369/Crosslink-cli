@@ -2,9 +2,9 @@
   "videos": [
     {
       "id": "1",
-      "video_name": "Serene Nature Walk",
+      "video_name": "vimanam",
       "video_url": "/videos/nature_walk.mp4",
-      "thumbnail": "nature_walk_thumb.jpg",
+      "thumbnail": "https://www.zee5.com/movies/details/vimanam-tamil/0-0-1z5391534",
       "info": {
         "description": "A calming walk through lush green forests.",
         "duration": "0:02:15",
@@ -14,7 +14,7 @@
       },
       "download_url": "/downloads/nature_walk.mp4",
       "year": 2023,
-      "language": "English",
+      "language": "tamil",
       "dubbed": false
     },
     {
